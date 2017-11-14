@@ -8,6 +8,8 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 CREATE DATABASE /*!32312 IF NOT EXISTS*/`jeesite` /*!40100 DEFAULT CHARACTER SET utf8 COLLATE utf8_bin */;
 
+
+
 USE `jeesite`;
 
 /*Table structure for table `ACT_GE_BYTEARRAY` */
